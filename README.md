@@ -6,7 +6,6 @@ TourAdvisor is a travel-assistance website prototype that helps travelers enhanc
 The project emphasizes usability, accessibility, and user-centered design principles.  
 
 
-
 Features  
 • Easy user account creation & management  
 • Destination selection based on budget & preferences  
@@ -59,3 +58,4 @@ Project Files
 
 Conclusion  
 TourAdvisor provides a practical, user-friendly, and accessible travel assistant that helps travelers save time and make informed decisions.  
+
